@@ -1,0 +1,55 @@
+.body-background {
+  background-color: #414141;
+
+}
+.body{
+    color: white;
+    padding: 1rem 0;
+    width: 1200px;
+    margin: 0 auto;
+}
+@media screen and (max-width: 1250px) {
+    .body {
+      width: 800px;
+    }
+    .body__container{
+        width: 800px;
+    }
+}
+.body__title {
+  margin: 4rem;
+  font-size: 2.5rem;
+  text-align: center;
+}
+.body__subtitle{
+    margin: 2rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.body__container{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+.block{
+    display: flex;
+    background-color: #CBCBCB;
+    height: 20rem;
+    width: 20rem;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    
+}
+.block img{
+    display: flex;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blockName{
+    color: black;
+    margin: 2rem;
+    font-size: 4rem;
+    text-align: center;
+}
