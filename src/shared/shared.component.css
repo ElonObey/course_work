@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: 6rem;
+    margin: 7rem auto;
+}
+h2{
+    text-align: center;
+    font-size: 2rem;
+    margin: 5rem auto;
+}
+.img_block{
+    margin: auto;
+}
+.img_block img{
+    display: flex;
+    margin: auto;
+}

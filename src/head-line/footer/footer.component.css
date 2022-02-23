@@ -1,0 +1,14 @@
+.footer{
+    background-color: #2B2B2B;
+    color: white;
+    padding: 2rem;
+}
+.footer__textBlock{
+    text-align: center;
+}
+.text{
+    font-size: 1rem;
+}
+.subText{
+    font-size: 0.75rem;
+}
