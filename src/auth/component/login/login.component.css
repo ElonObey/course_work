@@ -1,0 +1,38 @@
+h1{
+  color: white;
+  font-size: 2rem;
+}
+
+.container{
+  background-color: #2b2b2b;
+  width: 600px;
+  margin: 4rem auto;
+  padding: 1rem 0.0rem;
+}
+.container__header{
+  text-align: center;
+  padding-top: 1rem;
+}
+.container__line{
+  margin: auto;
+  width: 70%;
+  border-bottom: 0.2rem solid #e7e7e7;
+}
+.container__item{
+  margin: 3rem 1.5rem;
+  justify-items: center;
+}
+.mat-form-field {
+  display: block;
+}
+.Block_center{
+  width: 80%;
+  color: rgb(224, 224, 224);
+  margin: 1rem auto;
+  
+}
+.button{
+  width: 50%;
+  margin: 1rem auto;
+  display: block;
+}
